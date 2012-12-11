@@ -1,0 +1,1 @@
+[29-Nov-2012 20:15:30 UTC] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/newc1810/public_html/tomasapp/loreal/supercut/php/saveUserData.php:1) in /home/newc1810/public_html/tomasapp/loreal/supercut/php/saveUserData.php on line 2

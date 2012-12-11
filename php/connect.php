@@ -1,0 +1,1 @@
+<?php	$host="localhost";	$db="newc1810_tomasapp";	$user="newc1810_arte";	$pass="ZBfsxLQEM7[T";		$link = mysql_connect($host, $user, $pass);	if (!$link) {		die('Could not connect: ' . mysql_error());	}	// make foo the current db	$db_selected = mysql_select_db($db, $link);	if (!$db_selected) {		die ('Can\'t use '.$db.': ' . mysql_error());	}?>
